@@ -3,5 +3,6 @@ GIT=`which git`
 ${GIT} add --all .
 ${GIT} commit -m "$message"
 
-gitPush=$(${GIT} push -u origin main)
+gitPush=$(${GIT} push https://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@github.com/zacheliason/zacheliason.github.io.git)
+
 echo "$gitPush"
