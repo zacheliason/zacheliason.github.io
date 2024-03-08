@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  body-footer: "[[site code]](https://github.com/zacheliason/quarto_website/)"
+  favicon: favicon.ico
+  title: Zach Eliason
+  search: false
+  navbar:
+    title: false
+    search: false
+    left:
+      - href: index.qmd
+        text: About
+      - href: zach_cv.pdf
+        text: CV
+    right:
+      - href: "mailto: eliasonzach@gmail.com"
+        icon: "envelope"
+      - href: https://github.com/zacheliason/
+        icon: "github"
+      - href: https://linkedin.com/in/zacheliason/
+        icon: "linkedin"
+
+format:
+  html:
+    toc: true
+    grid:
+      body-width: 600px
+    theme:
+      - cosmo
+    css: styles.css
+
+
+

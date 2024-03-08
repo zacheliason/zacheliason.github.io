@@ -1,17 +1,16 @@
+$link-color: red;
+$primary: red;
+
 /* css styles */
 h1 {
-    font-family: "tarzana-narrow", sans-serif;
-    /* font-family: "ibm-plex-serif"; */
+    /* font-family: "tarzana-narrow", sans-serif; */
+    font-family: "ibm-plex-serif";
     font-weight: 100;
     /* font-style: italic; */
     font-size: 3em;
 }
 
-a:not(.navbar a), .nav-link:hover, .nav-link:hover, .navbar-dark .navbar-nav .nav-link.active .menu-text {
- color: #f5602a !important;
-}
-
-body {
+p {
     font-family: "ibm-plex-serif", "serif";
     font-size: 1.2em;
 }
@@ -22,8 +21,8 @@ body {
     margin: 0 auto;
     padding-left: 0 !important;
     padding-right: 0 !important;;
-    font-family: "tarzana-wide", sans-serif;
-    /* font-family: 'ibm-plex-mono'; */
+    /* font-family: "tarzana-wide", sans-serif; */
+    font-family: 'ibm-plex-mono';
     /* text-transform: uppercase; */
     font-weight: 800;
     letter-spacing: .5px;
@@ -45,4 +44,6 @@ body {
     padding-left: 0;
 }
 
-
+/* .navbar .ms-auto .nav-link:last-child {
+    padding-right: 0;
+} */
