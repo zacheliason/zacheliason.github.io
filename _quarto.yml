@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  body-footer: "[[site code]](https://github.com/zacheliason/quarto_website/)"
+  body-footer: "[[site code]](https://github.com/zacheliason/zacheliason.github.io/)"
   favicon: favicon.ico
   title: Zach Eliason
   search: false
