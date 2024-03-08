@@ -15,10 +15,9 @@ mainfont: TeXGyreAdventorRegular
 
 I am a bioinformatician interested in:
 
-- 🦠 cancer immunology
-- 𑗊 geometric machine learning
-- 🏥 translational research
-- 🤖 deep learning
-- 🧬 genetics
+- 🦠 Cancer immunology
+- 🤖 Deep learning (particularly GNNs)
+- 🏥 Translational research
+- 🧬 Genetics
 
-I have expertise in a variety of coding tools and languages (Python, AI/ML, PyTorch, R, C++, scripting/automation, AWS cloud computing, database management, version control, web programming), domain knowledge in genetics and immunology, and am proficient in design software (Adobe Illustrator, Photoshop, InDesign).
+I have expertise in a variety of coding tools and languages (Python, AI/ML, PyTorch, R, C++, scripting/automation, AWS cloud computing, database management (SQL & NoSQL), version control, web programming), domain knowledge in genetics and immunology, and am proficient in design software (Adobe Illustrator, Photoshop, InDesign).
