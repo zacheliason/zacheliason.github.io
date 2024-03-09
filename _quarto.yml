@@ -26,7 +26,7 @@ format:
   html:
     toc: true
     grid:
-      body-width: 800px
+      body-width: 600px
     theme:
       - cosmo
     css: styles.css
