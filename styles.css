@@ -17,7 +17,17 @@ body {
     color: black;
     font-weight: 400;
     font-style: normal;
-    font-size: 1em;
+    font-size: 1.1em;
+}
+
+main a {
+    opacity: .7;
+    transition: .2s;
+}
+
+main a:hover {
+    opacity: 1;
+    transition: .1s;
 }
 
 p {
@@ -30,10 +40,14 @@ ul {
     list-style: '-  ';
 }
 
+#profile {
+    max-width: 250px !important;
+}
+
 .navbar {
     background-color: rgba(0, 0, 0, 0);
-    width: 600px;
-    margin: 0 auto;
+    width: 800px;
+    margin: 2em auto 0 auto;
     padding-left: 0 !important;
     padding-right: 0 !important;;
     font-family: "nimbus-sans", sans-serif;
