@@ -106,7 +106,8 @@ ul {
         background-color: #ebebeb;
     }
 
-    /* .ms-auto .nav-item {
-        padding: 0 .25em;
-    } */
+    #profile {
+        max-width: 100% !important;
+    }
 }
+
