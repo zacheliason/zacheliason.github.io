@@ -22,4 +22,4 @@ I'm a bioinformatician interested in:
 
 I have expertise in a variety of coding tools and languages (Python, AI/ML, PyTorch, R, C++, scripting/automation, AWS cloud computing, database management (SQL & NoSQL), version control, web programming), domain knowledge in genetics and immunology, and am proficient in design software (Adobe Illustrator, Photoshop, InDesign).
 
-![](profile2.jpg){#profile}
+![](profile.jpg){#profile}

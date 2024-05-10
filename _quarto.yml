@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  body-footer: "[[site code]](https://github.com/zacheliason/zacheliason.github.io/)"
+  body-footer: "[[site code]](https://github.com/zacheliason/zacheliason.github.io/) | [[about this typeface]](https://www.type-together.com/the-story-behind-alverata)"
   favicon: favicon.ico
   title: Zach Eliason
   search: false
