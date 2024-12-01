@@ -3,7 +3,7 @@ title: "Zach Eliason"
 title-block-banner: false
 format:
   html:
-    theme: vapor
+    theme: none
     code-fold: true
     toc: false
     number-sections: false
@@ -13,13 +13,14 @@ link-citations: true
 mainfont: TeXGyreAdventorRegular
 ---
 
-Bioinformatician with interests in:
+Bioinformatician with research interest in:
 
 - 🦠 Cancer immunology
-- 🤖 Deep and geometric learning
-- 🏥 Translational research
+- 🤖 Deep learning/GNNs
 - 🧬 Genetics
 
-I have expertise in a variety of coding tools and languages (Python, AI/ML, PyTorch, R, C++, scripting/automation, AWS cloud computing and serverless architecture, database management (SQL & NoSQL), Git version control, web programming), domain knowledge in genetics and immunology, and am proficient in design software (Adobe Illustrator, Photoshop, InDesign).
+I have expertise in a variety of coding tools and languages (Python, R, AI/ML, PyTorch, C++, scripting/automation, AWS cloud computing and serverless architecture, database management (SQL & NoSQL), Git version control, web programming), domain knowledge in genetics and immunology, and am proficient in design software (Adobe Illustrator, Photoshop, InDesign).
 
-![](profile.jpg){#profile}
+[Some miscellaneous web projects](https://zach-apps.github.io)
+
+<!-- ![](profile.jpg){#profile} -->

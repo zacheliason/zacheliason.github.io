@@ -36,6 +36,10 @@ main a:hover {
     transition: .1s;
 }
 
+.nav-link.active {
+    color: #f5602a !important;
+}
+
 p {
     line-height: 1.7em;
     /* padding-bottom: 1em; */
